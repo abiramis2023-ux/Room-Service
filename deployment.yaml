@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: room-booking
-        image: your-dockerhub-username/room-booking:latest
+        image: your-23mis0417/room-booking:latest
         ports:
         - containerPort: 8080
 ---
